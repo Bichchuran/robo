@@ -1,0 +1,11 @@
+ @font-face {
+    font-family: 'Horror Corpse Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Horror Corpse Regular'), url('Horrorcorpse-8MWRA.woff') format('woff');
+    }
+h1{
+   font-family: 'Horror Corpse Regular';
+   font-weight: 200;
+   color: #0ccac4;
+}
